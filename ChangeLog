@@ -1,3 +1,9 @@
+2016-09-02 - v9.0-nd-0.1
+
+Nextdoor fork: Added `no warnings 'utf8';` to squelch warnings for printing of 
+wide characters.
+
+
 2016-09-02 - v9.0
 
 This major release of pgBadger is a port to bootstrap 3 and a version
